@@ -15,4 +15,6 @@ For this project, you will need to have:
 3. **ERC-721 Token Symbol - STR**
 
 
-4. **ERC-721 Token Address - 0x1139D7CD0AAaaf4eAf59E336C64c305b05Ec47B6**:
+4. **ERC-721 Token Address - 0x1139D7CD0AAaaf4eAf59E336C64c305b05Ec47B6**
+
+5. **ERC-721 Rinkeby Token URL - https://rinkeby.etherscan.io/token/0x1139D7CD0AAaaf4eAf59E336C64c305b05Ec47B6**
